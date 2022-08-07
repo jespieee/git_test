@@ -1,2 +1,2 @@
 # git_test
-Odin Porject git_test
+Odin Project git_test
